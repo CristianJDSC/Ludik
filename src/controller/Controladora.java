@@ -19,6 +19,7 @@ public class Controladora {
     JFrame ventana;
     int holaaaaa;
     int aaaaaaaa;
+    int sis;
     
     public Controladora(JFrame ventana){
        this.ventana = ventana;
