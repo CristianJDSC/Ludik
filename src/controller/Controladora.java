@@ -17,6 +17,7 @@ import static javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE;
  */
 public class Controladora {
     JFrame ventana;
+    int holaaaaa;
     
     public Controladora(JFrame ventana){
        this.ventana = ventana;
